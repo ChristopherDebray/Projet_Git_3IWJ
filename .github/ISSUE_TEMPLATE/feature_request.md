@@ -2,21 +2,46 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: 'feature'
 assignees: ''
-issue: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# Conception steps achieved
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+- [ ] The right labels have been added
+- [ ] Collaborator working on the feature as been defined
+- [ ] The specifications have been written
+- [ ] The technical strategy has been written
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+# Summary
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+A clear and concise description of the feature.
+
+# Specifications 
+
+## Story
+
+**EN TANT QUE** 
+
+**JE** 
+
+**AFIN DE** 
+
+## Acceptance Criteria
+
+**ÉTANT DONNÉ** 
+
+**LORSQUE** 
+
+**ALORS** 
+
+##  Design
+
+
+## Technical requirements
+
+## Technical strategy
+
+# More about
 
