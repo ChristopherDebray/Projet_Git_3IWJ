@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: 'feature'
+labels: feature
 assignees: ''
 
 ---
@@ -44,4 +44,3 @@ A clear and concise description of the feature.
 ## Technical strategy
 
 # More about
-
